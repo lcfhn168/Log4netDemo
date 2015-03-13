@@ -49,7 +49,8 @@ log4net.ILog log = log4net.LogManager.GetLogger(System.Reflection.MethodBase.Get
 log.Debug("test");
 ```
 
-详细配置Demo  
+详细配置Demo  <https://github.com/xxiu/Log4netDemo>
+log4net       <http://logging.apache.org/log4net/>
 
 
 
