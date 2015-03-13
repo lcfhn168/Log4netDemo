@@ -1,0 +1,6 @@
+C:\Users\zhangwei_f\Downloads\Log4netDemo\Log4netDemo\ConsoleLogDemo\bin\Debug\ConsoleLogDemo.exe.config
+C:\Users\zhangwei_f\Downloads\Log4netDemo\Log4netDemo\ConsoleLogDemo\obj\Debug\ConsoleLogDemo.exe
+C:\Users\zhangwei_f\Downloads\Log4netDemo\Log4netDemo\ConsoleLogDemo\obj\Debug\ConsoleLogDemo.pdb
+D:\work\dotnetcode\Log4netDemo\ConsoleLogDemo\bin\Debug\ConsoleLogDemo.exe.config
+D:\work\dotnetcode\Log4netDemo\ConsoleLogDemo\obj\Debug\ConsoleLogDemo.exe
+D:\work\dotnetcode\Log4netDemo\ConsoleLogDemo\obj\Debug\ConsoleLogDemo.pdb

@@ -1,0 +1,16 @@
+D:\工作目录\代码\Demo\ConsoleLogDemo\bin\Debug\App.config
+D:\工作目录\代码\Demo\ConsoleLogDemo\bin\Debug\ConsoleLogDemo.exe.config
+D:\工作目录\代码\Demo\ConsoleLogDemo\bin\Debug\ConsoleLogDemo.exe
+D:\工作目录\代码\Demo\ConsoleLogDemo\bin\Debug\ConsoleLogDemo.pdb
+D:\工作目录\代码\Demo\ConsoleLogDemo\bin\Debug\log4net.dll
+D:\工作目录\代码\Demo\ConsoleLogDemo\obj\Debug\ResolveAssemblyReference.cache
+D:\工作目录\代码\Demo\ConsoleLogDemo\obj\Debug\ConsoleLogDemo.exe
+D:\工作目录\代码\Demo\ConsoleLogDemo\obj\Debug\ConsoleLogDemo.pdb
+D:\工作目录\代码\Demo\Log4netDemo\Log4netDemo\ConsoleLogDemo\bin\Debug\ConsoleLogDemo.exe.config
+D:\工作目录\代码\Demo\Log4netDemo\Log4netDemo\ConsoleLogDemo\obj\Debug\ConsoleLogDemo.exe
+D:\工作目录\代码\Demo\Log4netDemo\Log4netDemo\ConsoleLogDemo\obj\Debug\ConsoleLogDemo.pdb
+D:\工作目录\代码\Demo\Log4netDemo\Log4netDemo\ConsoleLogDemo\bin\Debug\App.config
+D:\工作目录\代码\Demo\Log4netDemo\Log4netDemo\ConsoleLogDemo\bin\Debug\ConsoleLogDemo.exe
+D:\工作目录\代码\Demo\Log4netDemo\Log4netDemo\ConsoleLogDemo\bin\Debug\ConsoleLogDemo.pdb
+D:\工作目录\代码\Demo\Log4netDemo\Log4netDemo\ConsoleLogDemo\bin\Debug\log4net.dll
+D:\工作目录\代码\Demo\Log4netDemo\Log4netDemo\ConsoleLogDemo\obj\Debug\ResolveAssemblyReference.cache

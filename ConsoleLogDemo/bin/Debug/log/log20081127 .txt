@@ -1,0 +1,2 @@
+2008-11-27 21:36:42,812 [328] [10] INFO  ConsoleApp.LoggingExample  - hello world!
+

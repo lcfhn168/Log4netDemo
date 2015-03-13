@@ -1,0 +1,2 @@
+2008-11-27 18:29:04,843 [10] DEBUG edtest [(null)] - hello world!
+2008-11-27 18:29:11,234 [10] DEBUG edtest [(null)] - hello world!

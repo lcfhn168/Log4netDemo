@@ -1,0 +1,35 @@
+2008-11-27 18:45:40,859 [10] ERROR WindowsLogDemo.Form1 [(null)] - error
+System.Exception: 发生了一个异常
+2008-11-27 18:45:40,984 [10] FATAL WindowsLogDemo.Form1 [(null)] - fatal
+System.Exception: 发生了一个致命错误
+2008-11-27 18:45:41,031 [10] INFO  WindowsLogDemo.Form1 [(null)] - hellow world!
+2008-11-27 18:45:41,046 [10] DEBUG WindowsLogDemo.Form1 [(null)] - debug
+2008-11-27 18:45:41,062 [10] WARN  WindowsLogDemo.Form1 [(null)] - warn
+2008-11-27 18:46:41,343 [11] ERROR WindowsLogDemo.Form1 [(null)] - error
+System.Exception: 发生了一个异常
+2008-11-27 18:46:41,500 [11] FATAL WindowsLogDemo.Form1 [(null)] - fatal
+System.Exception: 发生了一个致命错误
+2008-11-27 18:46:41,515 [11] INFO  WindowsLogDemo.Form1 [(null)] - hellow world!
+2008-11-27 18:46:41,531 [11] DEBUG WindowsLogDemo.Form1 [(null)] - debug
+2008-11-27 18:46:41,562 [11] WARN  WindowsLogDemo.Form1 [(null)] - warn
+2008-11-27 18:46:51,734 [11] ERROR WindowsLogDemo.Form1 [(null)] - error
+System.Exception: 发生了一个异常
+2008-11-27 18:46:51,765 [11] FATAL WindowsLogDemo.Form1 [(null)] - fatal
+System.Exception: 发生了一个致命错误
+2008-11-27 18:46:51,812 [11] INFO  WindowsLogDemo.Form1 [(null)] - hellow world!
+2008-11-27 18:46:51,859 [11] DEBUG WindowsLogDemo.Form1 [(null)] - debug
+2008-11-27 18:46:51,875 [11] WARN  WindowsLogDemo.Form1 [(null)] - warn
+2008-11-27 18:46:57,062 [11] ERROR WindowsLogDemo.Form1 [(null)] - error
+System.Exception: 发生了一个异常
+2008-11-27 18:46:57,093 [11] FATAL WindowsLogDemo.Form1 [(null)] - fatal
+System.Exception: 发生了一个致命错误
+2008-11-27 18:46:57,109 [11] INFO  WindowsLogDemo.Form1 [(null)] - hellow world!
+2008-11-27 18:46:57,140 [11] DEBUG WindowsLogDemo.Form1 [(null)] - debug
+2008-11-27 18:46:57,156 [11] WARN  WindowsLogDemo.Form1 [(null)] - warn
+2008-11-27 18:47:01,765 [11] ERROR WindowsLogDemo.Form1 [(null)] - error
+System.Exception: 发生了一个异常
+2008-11-27 18:47:01,796 [11] FATAL WindowsLogDemo.Form1 [(null)] - fatal
+System.Exception: 发生了一个致命错误
+2008-11-27 18:47:01,828 [11] INFO  WindowsLogDemo.Form1 [(null)] - hellow world!
+2008-11-27 18:47:01,843 [11] DEBUG WindowsLogDemo.Form1 [(null)] - debug
+2008-11-27 18:47:01,875 [11] WARN  WindowsLogDemo.Form1 [(null)] - warn
